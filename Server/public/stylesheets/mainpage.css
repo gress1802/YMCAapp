@@ -1,0 +1,62 @@
+html {
+  background-color: #CFF5E7;
+}
+
+.navbar {
+  background-color: #0D4C92;
+}
+.nav-item{
+  width: 80px;
+}
+#Ylogo{
+  width: 100%;
+  border-radius: 6px;
+}
+#filter{
+  width: 40%;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:#CFF5E7;
+}
+
+a {
+  color: #00B7FF;
+  width: 45px;
+}
+
+#brand{
+  font-family: 'Lato', sans-serif;
+  font-weight:bolder;
+}
+
+.home{
+  min-height: 100vh;
+  background-color: #CFF5E7;
+}
+
+.programContainer{
+  height: auto;
+}
+
+.click{
+  cursor: pointer;
+}
+
+.col{
+  padding-bottom: 5vh;
+  padding-top: 5vw;
+}
+
+#loginError{
+  color: red;
+}
+
+.img-fluid {
+  width: 100vw;
+}
+
+
